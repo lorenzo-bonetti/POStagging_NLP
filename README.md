@@ -30,3 +30,8 @@ The model with the best F1-macro (BiCRF) have been evaluated on the test set
 
 ## Error analysis
 A few considerations on the results obtained are at the end of the notebook
+
+## Credits
+Lorenzo Bonetti
+
+Giulio Fortini
